@@ -1,0 +1,7 @@
+# Data analysis dependencies for the judicial-trust project.
+# Python 3.10+ recommended.
+
+pandas>=2.0
+numpy>=1.24
+statsmodels>=0.14
+matplotlib>=3.7
